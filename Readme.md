@@ -1,6 +1,11 @@
 ## Foodpanda爬蟲 Foodpanda-spider
 得到Foodpanda的所有地區,價格,或是餐點品名
 
+## 版權聲明 Copyright
+(C) Aishen-Shanling Team 2020
+(C) Tershi Team 2020
+此為唯一正版夏特稀製作，請尊重著作權，版權所有。
+
 ## 介紹 Introduction
 這是一款使用Python編成而成的Foodpanda爬蟲 內含地區選擇 餐點查看 以及價格查看 以便下單 不定期更新！
 ## 安裝方式 Installation
